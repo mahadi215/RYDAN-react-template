@@ -1,0 +1,16 @@
+.Course-box{
+    border: 1px solid rgb(118, 118, 118);
+}
+.Course-box{
+    width: 320px;
+    margin: auto;
+}
+.Course-box div{
+   padding: 16px;
+}
+.Course-box div h2{
+   font-size: 20px;
+   font-weight: bold;
+   margin-bottom: 10px;
+   color: #1e40af ;
+}

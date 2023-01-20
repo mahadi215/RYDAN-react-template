@@ -1,0 +1,14 @@
+
+.steps h2,p{
+    text-align: left;
+}
+.steps h2{
+    text-align: left;
+    font-size: 22px;
+    font-weight: bold;
+    color: #1e40af ;
+}
+.steps div{
+    padding: 2rem;
+    padding-left: 0;
+}

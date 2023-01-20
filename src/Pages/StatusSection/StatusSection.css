@@ -1,0 +1,17 @@
+.status{
+    /* background-image: url('../../assest/images/bg-2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+.status div{
+    text-align: center;
+}
+.status h4{
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+.status p{
+
+    color: white;
+}
